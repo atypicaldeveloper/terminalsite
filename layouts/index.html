@@ -4,6 +4,8 @@
     <br>
     hello, thanks for visiting <3
 
+    if you're busy, 
+
     {{ with .Content }} {{ . | emojify }} {{ end }}
 
     {{ $posts := where .Site.RegularPages "Type" "in" .Site.Params.mainSections}}
