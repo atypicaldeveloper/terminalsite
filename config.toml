@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://atypicaldev.netlify.app/'
 languageCode = 'en-us'
 title = 'atyp // break sh*t'
 theme = "wisdom"
