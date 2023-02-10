@@ -18,6 +18,10 @@ weight = -100
 identifier = 'about'
 name = 'about'
 url = 'about'
+[[menu.main]]
+identifier = 'shorts'
+name = '| short-stack'
+url = 'shorts'
 
 [params]
 author = "atyp"
