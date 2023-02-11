@@ -13,7 +13,7 @@ noindex: false
 The "Black Box" approach to training an artificial intelligence (AI) refers to the lack of transparency in the decision-making processes of AI systems. The inputs and outputs are highly visible but the inner workings, the part that turns a model into a tool is not. It is extremely difficult to understand what "language" these in-betweens speak, making is hard or sometimes impossible to understand how the system arrived at a specific decision.
 
 I hold issue with this approach.
-Private datasets used to train AI systems often contain sensitive information, such as personal data obtained from a unfederated crawl of websites. This, along with other factors, introduces bias into the set of data (Dataset) used to train the AI. If a dataset used to train an AI system contains biased information, the AI system will also be biased. This can lead to unfair and discriminatory decisions, such as denying loans or employment opportunities based on race, gender, or other sensitive factors. As a result, it is difficult to determine the accuracy and fairness of AI systems when they are trained on these datasets.
+Private datasets used to train AI systems often contain sensitive information, such as personal data obtained from a crawl of websites. This, along with other factors, introduces bias into the set of data (Dataset) used to train the AI. If a dataset used to train an AI system contains biased information, the AI system will also be biased. This can lead to unfair and discriminatory decisions, such as denying loans or employment opportunities based on race, gender, or other sensitive factors. As a result, it is difficult to determine the accuracy and fairness of AI systems when they are trained on these datasets.
 
 Additionally, the "Black Box" approach can also limit the power of groups and organizations to find problems with their AI systems. Errors, bias, or unintended consequences can lead to negative consequences for individuals and communities, and harm the reputation of the organizations that use AI systems. For example, if an AI system is making decisions that are unfair or discriminatory, it may be difficult to detect this without understanding how the system is making its decisions. It is essential for these groups and organizations to adopt an approach to AI that is transparent and accountable, so that they can ensure that their AI systems are making fair and accurate decisions.
 
@@ -21,17 +21,10 @@ This approach also poses a challenge regulatory compliance, such as the European
 
 The use of ethical and responsible data collection practices help minimize bias in training datasets, and ensure that AI systems are not causing harm.
 
-## How can we fix this?
-
 It all comes down to:
 
 - Transparency, or how easy it is to explain the algorithms behind an AI
 - Elimination of Preconceived Notions, or the removal of personal bias from datasets
 - Total and Absolute Freedom of Information, I want documentation and I want it now!
 
-Through these fundamentals, we can begin to trust our artificial companions a little bit more. 
-
-With this, I leave you - whoever you may be - with a question. 
-
-> # "... how biased is too biased? At what point do you prioritize the victims of preventable crimes over the victims of the algorithm?" 
-> -> [Hannah Fry, Hello World: Being Human in the Age of Algorithms](https://www.goodreads.com/work/quotes/59883978-hello-world-being-human-in-the-age-of-algorithms)
+Through these fundamentals, we can begin to trust our artificial companions a little bit more.
