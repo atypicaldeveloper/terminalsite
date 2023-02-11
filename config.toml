@@ -28,6 +28,6 @@ author = "atyp"
 description = "Trans Rights - Break Shit Blog 2023"
 keywords = ["blog", 'personal-site', "minimal", "monospaced", "c++"]
 
-latestPostsLimit = 3    # Homepage posts list.
+latestPostsLimit = 6    # Homepage posts list.
 hideReadingTime = false
 hideAuthor = false
