@@ -1,12 +1,15 @@
 <footer>
-  {{- if .Site.Copyright }}
-  <span>{{ .Site.Copyright | markdownify }}</span>
-  {{- else }}
-  <span>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></span>
-  {{- end }}
-  <span>
-      Powered by
-      <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-      <a href="https://github.com/maxrodrigo/hugo-theme-wisdom/" rel="noopener" target="_blank">Wisdom</a>
-  </span>
+    {{- if .Site.Copyright }}
+    <span>{{ .Site.Copyright | markdownify }}</span>
+    {{- else }}
+    <span>&copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></span>
+    {{- end }}
+    <span>
+        Powered by
+        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
+        <a href="https://github.com/maxrodrigo/hugo-theme-wisdom/" rel="noopener" target="_blank">Wisdom</a><br>
+        <a href="https://weirdring.netlify.app//member2/previous">&#60;&#60; back - </a><a
+            href="https://weirdring.netlify.app/"> weirdring </a><a href="https://weirdring.netlify.app//member2/next">
+            - next &#62;&#62;</a></p>
+    </span>
 </footer>
